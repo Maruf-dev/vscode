@@ -1,0 +1,23 @@
+*{
+  background: #fff0cda2;
+  font-family: 'Cinzel', serif;
+}
+
+
+li {
+    font-size: 1.5em;
+    font-family: Helvetica;
+
+    }
+    .hi {background-color: yellow;
+         font: 1em sans-serif;
+         width: 140px;
+  }
+  .done {/*text-decoration: line-through;*/
+         font-family: Courier;   
+
+  }
+  .highlight {
+  background-color: yellow;
+  font-weight: bold;
+  color: red;}
