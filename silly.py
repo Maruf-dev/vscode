@@ -1,6 +1,6 @@
 
 import random
-import words
+import vscode.words as words
 
 
 def silly_string(nouns, verbs, templates):
@@ -32,10 +32,9 @@ def silly_string(nouns, verbs, templates):
 if __name__ == '__main__':
     print(silly_string(words.nouns, words.verbs,
         words.templates))
-    
-    
-    
-    
-    
-    
-  
+
+
+
+
+
+
