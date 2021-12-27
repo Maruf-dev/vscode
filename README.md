@@ -1,2 +1,2 @@
-# Python begginer files
+# Python beginners' project files
 
